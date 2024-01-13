@@ -1,0 +1,20 @@
+.Card{
+    float:left;
+}
+
+.Name{
+    font-weight:bold;
+    color: whitesmoke;
+}
+
+.Chip{
+    width: 40px;
+}
+
+.Player.myTurn .Name {
+    color: yellow; 
+}
+
+.Block{
+    display: block;
+}
